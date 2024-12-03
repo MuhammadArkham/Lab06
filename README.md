@@ -74,4 +74,29 @@ if __name__ == "__main__":
 ![Foto](https://github.com/MuhammadArkham/Lab06/blob/main/Screenshot%202024-12-03%20124757.png?raw=true)
 
 ## Penjelasan alur algoritma program
+```python
+daftar_mahasiswa
+```
+Untuk membuat list kosong bernama yang akan menampung nama-nama mahasiswa.
+```python
+Fungsi tambah()
+```
+ bertugas menambahkan nama baru ke dalam daftar. Pengguna akan diminta untuk menginput nama mahasiswa, dan setelah nama tersebut dimasukkan, program akan menyimpan nama itu ke dalam daftar serta menampilkan pesan sebagai konfirmasi.
+```python
+Fungsi tampilkan()
+```
+ bertujuan untuk menampilkan semua nama mahasiswa yang sudah disimpan. Apabila daftar masih kosong, program akan memberikan informasi khusus kepada pengguna bahwa belum ada data yang tersimpan.
+```python
+Fungsi hapus()
+```
+ memberikan kemampuan kepada pengguna untuk menghapus nama tertentu dari daftar. Sebelum nama dihapus, program akan memeriksa apakah nama tersebut benar-benar ada dalam daftar untuk menghindari kesalahan.
+```python
+fungsi ubah()
+```
+memungkinkan pengguna mengganti nama mahasiswa yang sudah ada. Program akan mencari nama lama yang dimaksud dalam daftar, lalu menggantinya dengan nama baru yang diinputkan pengguna.
+```python
+fungsi main()
+```
+Seluruh proses ini dikendalikan oleh fungsi main(), yang menampilkan menu interaktif berisi pilihan untuk menambah, menampilkan, menghapus, mengubah data, atau keluar dari program. Pengguna dapat memilih opsi yang sesuai, dan program akan menjalankan fungsi yang relevan.
 
+Program ini menggunakan mekanisme while True untuk memastikan bahwa aplikasi tetap berjalan hingga pengguna memilih opsi keluar. Dengan demikian, aplikasi ini dirancang untuk memberikan pengalaman pengelolaan data mahasiswa yang sederhana tetapi tetap efektif dan mudah digunakan.
