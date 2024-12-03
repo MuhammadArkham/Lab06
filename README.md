@@ -71,4 +71,7 @@ if __name__ == "__main__":
 ```
 ## Hasil kode Program
 ![Foto](https://github.com/MuhammadArkham/Lab06/blob/main/Screenshot%202024-12-03%20124748.png?raw=true)
-![Foto](
+![Foto](https://github.com/MuhammadArkham/Lab06/blob/main/Screenshot%202024-12-03%20124757.png?raw=true)
+
+## Penjelasan alur algoritma program
+
