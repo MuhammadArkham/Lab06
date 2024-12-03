@@ -102,4 +102,4 @@ Seluruh proses ini dikendalikan oleh fungsi main(), yang menampilkan menu intera
 Program ini menggunakan mekanisme while True untuk memastikan bahwa aplikasi tetap berjalan hingga user memilih opsi keluar. Dengan demikian, aplikasi ini dirancang untuk memberikan pengalaman pengelolaan data mahasiswa yang sederhana tetapi tetap efektif dan mudah digunakan.
 
 ## Gambar Flowchart
-![Foto]
+![Foto](https://github.com/MuhammadArkham/Lab06/blob/main/FLOWCHART%206.png?raw=true)
