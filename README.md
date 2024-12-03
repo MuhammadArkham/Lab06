@@ -85,7 +85,7 @@ Fungsi tambah()
 ```python
 Fungsi tampilkan()
 ```
- bertujuan untuk menampilkan semua nama mahasiswa yang sudah disimpan. Apabila daftar masih kosong, program akan memberikan informasi khusus kepada pengguna bahwa belum ada data yang tersimpan.
+ bertujuan untuk menampilkan semua nama mahasiswa yang sudah disimpan. Apabila daftar masih kosong, program akan memberikan informasi khusus kepada user bahwa belum ada data yang tersimpan.
 ```python
 Fungsi hapus()
 ```
@@ -97,6 +97,9 @@ memungkinkan pengguna mengganti nama mahasiswa yang sudah ada. Program akan menc
 ```python
 fungsi main()
 ```
-Seluruh proses ini dikendalikan oleh fungsi main(), yang menampilkan menu interaktif berisi pilihan untuk menambah, menampilkan, menghapus, mengubah data, atau keluar dari program. Pengguna dapat memilih opsi yang sesuai, dan program akan menjalankan fungsi yang relevan.
+Seluruh proses ini dikendalikan oleh fungsi main(), yang menampilkan menu interaktif berisi pilihan untuk menambah, menampilkan, menghapus, mengubah data, atau keluar dari program. user dapat memilih opsi yang sesuai, dan program akan menjalankan fungsi yang relevan.
 
-Program ini menggunakan mekanisme while True untuk memastikan bahwa aplikasi tetap berjalan hingga pengguna memilih opsi keluar. Dengan demikian, aplikasi ini dirancang untuk memberikan pengalaman pengelolaan data mahasiswa yang sederhana tetapi tetap efektif dan mudah digunakan.
+Program ini menggunakan mekanisme while True untuk memastikan bahwa aplikasi tetap berjalan hingga user memilih opsi keluar. Dengan demikian, aplikasi ini dirancang untuk memberikan pengalaman pengelolaan data mahasiswa yang sederhana tetapi tetap efektif dan mudah digunakan.
+
+## Gambar Flowchart
+![Foto]
