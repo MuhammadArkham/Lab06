@@ -70,4 +70,5 @@ if __name__ == "__main__":
     main()
 ```
 ## Hasil kode Program
-![Foto]
+![Foto](https://github.com/MuhammadArkham/Lab06/blob/main/Screenshot%202024-12-03%20124748.png?raw=true)
+![Foto](
